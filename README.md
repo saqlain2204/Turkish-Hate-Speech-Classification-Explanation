@@ -27,13 +27,17 @@ Dataset is publicly available on **Kaggle**:
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-[Results](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/results.png)
+### 🔹 Model Results
+![Results](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/results.png)
 
-[SHAP Explanability](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/shap.png)
+### 🔹 SHAP Explainability
+![SHAP Explanability](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/shap.png)
 
-[Re-writing Hate Tweet](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/rewrite.png)
+### 🔹 Rewriting a Hate Tweet
+![Re-writing Hate Tweet](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/rewrite.png)
+
 
 ---
 ## 🧪 Inference Sample
