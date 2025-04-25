@@ -29,11 +29,11 @@ Dataset is publicly available on **Kaggle**:
 
 ## Screenshots
 
-[Results](https://www.kaggle.com/datasets/musadiqpashak/turkish-hatespeech-tweets)
+[Results](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/results.png)
 
-[SHAP Explanability](https://www.kaggle.com/datasets/musadiqpashak/turkish-hatespeech-tweets)
+[SHAP Explanability](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/shap.png)
 
-[Re-writing Hate Tweet](https://www.kaggle.com/datasets/musadiqpashak/turkish-hatespeech-tweets)
+[Re-writing Hate Tweet](https://github.com/MusadiqPasha/Turkish-Hate-Speech-Classification-Explanation/blob/main/output/rewrite.png)
 
 ---
 ## 🧪 Inference Sample
